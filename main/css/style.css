@@ -1,3 +1,5 @@
+
+
 /* =================================
 ------------------------------------
   Academica - Learning Page Template
@@ -16,6 +18,11 @@ body {
 	font-family: 'Raleway', sans-serif;
 	-webkit-font-smoothing: antialiased;
 	font-smoothing: antialiased;
+}
+
+
+#slider_header {
+	color: #000;
 }
 
 h1,
